@@ -1,1 +1,1 @@
-Project URL : https://iamramizul.github.io/html-cv/
+https://iamramizul.github.io/html-cv/
